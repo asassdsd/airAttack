@@ -34,3 +34,7 @@ If you like airAttack and it saves you time, money or just brings you happy feel
 Or buy me a coffee to keep me powered :)
 
 <a href="https://www.buymeacoffee.com/e1abrador" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width=300px> </a>
+
+TODO:
+
+ - Finish WPA attack interface

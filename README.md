@@ -1,4 +1,7 @@
+
 <h1> airAttack </h1>
+
+[![License](https://img.shields.io/badge/license-GPL3-_red.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ![alt text](https://github.com/C4yyyy/airAttack/blob/main/images/AIR-ATTACK-Header.jpg)
 
